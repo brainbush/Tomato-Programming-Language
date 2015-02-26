@@ -1,17 +1,12 @@
 # 番茄语
 
 ------------
+基于[Whitespace](http://compsoc.dur.ac.uk/whitespace/)编写。
 
-设想源自[Bluek404](http://bluek404.net)，基于[Whitespace](http://compsoc.dur.ac.uk/whitespace/)编写。
-
-用法： 
-番 = 0
-茄 = 1
-干 = 换行符
 ## 示例
 用番茄语写一个Hello World
 
-    Say番hello.番番番
+    番番番
     番番番茄番番茄番番番
     茄茄番番番番茄
     番番番茄茄番番茄番茄
@@ -121,5 +116,3 @@
     番番茄
     番番
     茄
-
-**如有疑问请发issuse或pull request**
